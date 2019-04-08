@@ -1,0 +1,65 @@
+.container{
+	margin-top: 5%;
+    margin-left: 650px;
+    margin-bottom: 5%;
+	
+}
+
+
+.paymentMethod{
+	margin: 0 auto;
+	box-sizing: border-box;
+	width: 510px;
+	border: 3px solid gray;
+	height: 350px;
+	
+}
+.total{
+	margin-top: 5%;
+    margin-left: 118px;
+    margin-bottom: 5%;
+    box-sizing: border-box;
+    width: 350px;
+    border: 3px solid #FAFAD2;
+    height: auto;
+    float: left;
+	
+}
+
+.subContainer{
+	padding:20px;
+	font-weight:bold;
+	font-family: arial;
+	color: black;
+}
+
+/*header{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(img/paywithcard.png);
+	height:100vh;
+}*/
+
+#cardName{
+	float:left;
+	margin-right:15px;
+}
+
+#expiryDate{
+	margin-top:10px;
+	float:left;
+	margin-right:60px;
+}
+
+#code{
+	margin-top:10px;
+}
+
+.btnCancel{
+	float: left;
+	margin-top: 50px;
+	margin-right: 182px;
+}
+
+.btnMake{
+	
+	margin-top: 50px;
+}

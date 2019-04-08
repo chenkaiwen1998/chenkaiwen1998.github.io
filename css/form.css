@@ -1,0 +1,130 @@
+
+h1 {
+    font-size: 70px;
+    padding: 20px;
+    margin: 0;
+}
+
+form {
+	padding : 0;
+	margin: 0;
+}
+
+.container_content
+{
+	background-color: #EDEDED;
+	
+}
+.sub-container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.user-container {
+	margin:auto;
+	width: 40%;
+	position: relative;
+    top: 50px;
+    padding: 20px;
+	font-weight:400;
+	font-family: Open-san;
+	background-color: white;
+}
+
+#firstName{
+	
+	font-weight: bold;
+	float: left;
+	padding: 10px;   
+	margin-right: 12px ;
+}
+
+#lastName{
+	font-weight: bold;
+	padding: 10px;
+}
+
+#email{
+	width:100px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+
+#address{
+	font-weight: bold;
+	padding: 10px;
+}
+
+#city{
+	float: left;
+	font-weight: bold;
+	padding: 10px;
+	margin-right: 12px;
+}
+
+#country{
+	padding:10px;
+	font-weight: bold;
+}
+
+#state{
+	font-weight: bold;
+	padding: 10px;
+	float: left;
+	margin-right: 12px;
+}
+
+#zip{
+	font-weight: bold;
+	padding: 10px;
+	
+}
+
+#phone{
+	font-weight: bold;
+	padding: 10px;
+}
+
+
+#birthday{
+	
+	font-weight: bold;
+	padding:10px;
+}
+
+#description{
+	font-weight:bold;
+	padding:10px;
+}
+
+#payment{
+	padding:10px;
+	font-weight:bold;
+}
+
+
+.validation-container {
+	margin:auto;
+	margin-top: 30px;
+	width: 40%;
+    padding: 20px;
+}
+
+
+#box{
+	padding:10px;
+	font-weight:bold;
+}
+
+.btn{
+	margin-top:10px;
+	background-color: #A8A8A8;
+	width: 120px;
+	margin-left:10px;
+	padding:10px;
+	
+}
+
+
+
